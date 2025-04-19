@@ -1,0 +1,49 @@
+# Logs
+logs/
+*.log
+*.log.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Java
+*.class
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Build directories
+dist/
+build/
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.orig
+*.tmp.*
+
+# Other
+*.out
+*.lock
+*.pid
+*.seed
+*.cover
+*.log
+
+# Dataset folder
+Chest_X-Ray_Dataset/
